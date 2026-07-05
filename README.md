@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/repo-chetan/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
