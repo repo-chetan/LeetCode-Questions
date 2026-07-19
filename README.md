@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [2498-frog-jump-ii](https://github.com/repo-chetan/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/repo-chetan/LeetCode-Questions/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/repo-chetan/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+## Greedy
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/repo-chetan/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
